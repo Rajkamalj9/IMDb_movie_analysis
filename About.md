@@ -12,11 +12,11 @@ This Power BI project analyzes trends in movie revenues, genres, and ratings. Th
 - IMDB rating doesn’t always correlate with revenue
 
 ## Dashboard Preview
-![Dashboard](Screenshot(110).png)
-![Dashboard](Screenshot (111).png)
-![Dashboard](Screenshot (112).png)
-![Dashboard](Screenshot (113).png)
-![Dashboard](Screenshot (114).png)
+![Dashboard](MainDashboard.png)
+![Dashboard](Dashboard.png)
+![Dashboard](Table&rating.png)
+![Dashboard](suggestion.png)
+![Dashboard](Screenshot(114).png)
 
 ## File
 - [Movie_Dashboard.pbix](MOVIE_DASHBOARD.pbix)
