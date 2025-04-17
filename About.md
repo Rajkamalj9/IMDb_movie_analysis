@@ -13,10 +13,10 @@ This Power BI project analyzes trends in movie revenues, genres, and ratings. Th
 
 ## Dashboard Preview
 ![Dashboard](Screenshot(110).png)
-![Dashboard](Screenshot(111).png)
-![Dashboard](Screenshot(112).png)
-![Dashboard](Screenshot(113).png)
-![Dashboard](Screenshot(114).png)
+![Dashboard](Screenshot (111).png)
+![Dashboard](Screenshot (112).png)
+![Dashboard](Screenshot (113).png)
+![Dashboard](Screenshot (114).png)
 
 ## File
 - [Movie_Dashboard.pbix](MOVIE_DASHBOARD.pbix)
